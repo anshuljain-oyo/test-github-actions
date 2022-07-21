@@ -1,6 +1,6 @@
 {
   "LABEL": {
-    "name": "Reformat title. Include JIRA ID in this format: [OMG-XXXX]",
+    "name": "Missing JIRA ID",
     "color": "EEEEEE"
   },
   "CHECKS": {
